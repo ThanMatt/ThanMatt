@@ -4,7 +4,7 @@ Senior Full Stack Engineer working with Python, TypeScript, React, and Django. I
 
 **Currently exploring:** System architecture and observability
 
-**Open to opportunities** - If you're reaching out about a role, tell me what specifically caught your eye about my work. Generic pitches get generic responses (or none at all).
+If you're reaching out about a role, tell me what specifically caught your eye about my work. Generic pitches get generic responses (or none at all).
 
 Tech stack: Python • TypeScript • React • Django • AWS • Neovim • Linux
 
